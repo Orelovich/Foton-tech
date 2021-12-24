@@ -4,4 +4,4 @@ Polish site of solar panels
 
 # Student name - Sotnikov Oleksandr
 
-# Mentor name - ...
+# Mentor name - Madness_C
