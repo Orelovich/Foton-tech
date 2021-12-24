@@ -1,2 +1,7 @@
 # Foton-tech
- Polish site of solar panels
+
+Polish site of solar panels
+
+# Student name - Sotnikov Oleksandr
+
+# Mentor name - ...
